@@ -45,18 +45,16 @@ update DB config
 
 ## IAC Deployment
 <pre><code>
-
  wget https://raw.githubusercontent.com/anuvindhs/Servian-Tech-ChallengeAppSolution/main/assets/install.sh -q -O -| bash 
  </code></pre>
 
 
  <pre><code>
-
 chmod u+x install.sh 
  </code></pre>
 
 <pre><code>
 ./install.sh
  </code></pre>
- 
+
 -----------
